@@ -1,0 +1,2 @@
+# Python-AWS-Menu-Script
+AWS instance launch, key pair created, security group created, run instance or start , stop instance, create s3 bucket and upload a file to it, create cloudfront distribution origin as s3 object url , all these programs has been run or executing through AWS-CLI commands. I have been made a script which done everything for you . Yeah! you got it ....you don't have need to do manually , it will automatically do and run these programs for you. You just have to opt only.
